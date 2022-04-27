@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/antonmedv/expr v1.9.0
 	github.com/argoproj/notifications-engine v0.3.0
-	github.com/argoproj/pkg v0.9.0
+	github.com/argoproj/pkg v0.13.0
 	github.com/aws/aws-sdk-go-v2/config v1.13.0
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.5.0
 	github.com/aws/aws-sdk-go-v2/service/elasticloadbalancingv2 v1.6.1
@@ -29,11 +29,10 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/soheilhy/cmux v0.1.5
 	github.com/spaceapegames/go-wavefront v1.8.1
-	github.com/spf13/cobra v1.1.3
-	github.com/stretchr/testify v1.7.0
+	github.com/spf13/cobra v1.4.0
+	github.com/stretchr/testify v1.7.1
 	github.com/tj/assert v0.0.3
 	github.com/valyala/fasttemplate v1.2.1
-	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d // indirect
 	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c
 	google.golang.org/grpc v1.38.0
 	google.golang.org/protobuf v1.26.0
